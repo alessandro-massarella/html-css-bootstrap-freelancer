@@ -48,7 +48,7 @@ header  div  {
 /* imposta la familyfont: lato */
 .font-lato {
   font-family: 'Lato', sans-serif;
-  font-weight: bold;
+  /* font-weight: bold; */
 }
 
 .rule {
